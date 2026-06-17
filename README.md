@@ -32,7 +32,7 @@ This is my personal portfolio website built using HTML, CSS and JavaScript. The 
 ## Installation
 
 1. Clone the repository
-git clone https://github.com/yourusername/personal-portfolio.git
+git clone https://github.com/Krishan1155/synent-task1-Personal-Portfolio-Website-Krishan-Patel.git
 
 2. Open the project folder
 cd personal-portfolio
